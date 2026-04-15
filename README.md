@@ -8,5 +8,13 @@ Once done, go to the releases tab, download the latest .apk and open it. enter t
 
 # How does it work?
 
-~~Obviously i didnt embed discord. rather i made a Flask server eith API endpoints and JSON responses that the app communicates with.~~
-well, after around a couple of months of abandoning this poor project, i decided to revisit it. both the app and the server will be getting massive overhauls for their respective 2.0 versions. while i code this, the app wont work due to large logic changes. 2.0 soon. with DM functionality ;3.
+Obviously i didnt embed discord. rather i made a Flask server eith API endpoints and JSON responses that the app communicates with.
+
+# Things added in 2.0
+1. DM support
+2. image caching on device
+3. overhauled and revamped UI
+4. real bio's pulled from discord
+3.5. UI looks more like discord
+5. more functionality
+6. and server now directly communicates with discord instead of using the discum python package.
